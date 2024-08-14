@@ -49,10 +49,6 @@ A repository that includes all my projects from Harvard's CS50P course. Each pro
 
 I’m continually enhancing my Python and SQL skills while exploring new areas like web development and data science. My focus is on refining my projects to better demonstrate my abilities and to make them more accessible.
 
-## 📈 GitHub Stats
-
-![XalarosC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XalarosC&show_icons=true&theme=radical)
-
 ## 🧑‍💻 Programming Philosophy
 
 "Programming isn't just about writing code; it's about solving problems, building solutions, and continuously learning. Every line of code is a step towards innovation."
